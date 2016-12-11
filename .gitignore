@@ -1,0 +1,4 @@
+node_modules/
+public/
+latest.dev.json
+.idea
